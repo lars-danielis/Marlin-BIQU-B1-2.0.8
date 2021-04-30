@@ -1,6 +1,6 @@
 # Printer with `BIGTREETECH SKR V1.4` motherboard
 
-# ONY with BLTouch! The firmware is configured for this holder: https://www.thingiverse.com/thing:4843403
+# ONLY with BLTouch! The firmware is configured for this holder: https://www.thingiverse.com/thing:4843403
 # Don't use if you don't habe a BLTouch. Z homing will ram your nozzle in the bed!
 Take care that the shown holder has offset X:36,5mm and Y:32mm
 If you use a different holder you have to adjust those offset values.
